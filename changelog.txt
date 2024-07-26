@@ -1,0 +1,8 @@
+Full game demo update v1.9 changelog:
+- New level! (Shaders)
+- Level editor
+- Online VS (beta)
+- Local multiplayer
+- Level select
+- Music timing patched
+- New animations and transition
