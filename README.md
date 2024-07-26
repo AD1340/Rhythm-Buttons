@@ -10,5 +10,7 @@ AD1340 - The game's art, code, and music
 
 yophlox - Console porter
 
+Hydration: Beat timing system
+
 ## More artist credits
 BMus - Shaders song (level), Just me song (game over), Square adventures (online lobby song)
