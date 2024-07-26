@@ -11,7 +11,7 @@ Each of these sprites have a custom block to help you do this!
 ![block_7_26_2024-2_16_51 PM](https://github.com/user-attachments/assets/1bf2433f-8675-429d-8c1f-07f273aec07e)
 ![block_7_26_2024-2_17_03 PM](https://github.com/user-attachments/assets/08df3217-4109-4e19-935d-298163644029)
 
-
+To check out the state of the game, press the 1 key or show the state variable.
 
 # Adding new scripts to the game
 Every time the state of the game switches, it uses a state variable along with a state sync broadcast. To add a new script for when a state starts, do something like this:
