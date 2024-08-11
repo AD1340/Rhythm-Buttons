@@ -6,3 +6,6 @@ Full game demo update v1.9 changelog:
 - Level select
 - Music timing patched
 - New animations and transition
+- New music system using Tune Shark v3
+- New game over animation
+- New menu animations
