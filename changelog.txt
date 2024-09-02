@@ -9,3 +9,4 @@ Full game demo update v1.9 changelog:
 - New music system using Tune Shark v3
 - New game over animation
 - New menu animations
+- Latest state sync and updated systems with new substate support
