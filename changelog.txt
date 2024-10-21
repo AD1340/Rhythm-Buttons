@@ -1,5 +1,5 @@
-Full game demo update v1.9 changelog:
-- New level! (Shaders)
+Anniversary Update 2025 changelog:
+- 3 new levels!
 - Level editor
 - Online VS (beta)
 - Local multiplayer
@@ -9,4 +9,4 @@ Full game demo update v1.9 changelog:
 - New music system using Tune Shark v3
 - New game over animation
 - New menu animations
-- Latest state sync and updated systems with new substate support
+- And more!
