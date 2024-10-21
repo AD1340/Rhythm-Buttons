@@ -1,11 +1,13 @@
-Anniversary Update 2025 changelog:
+Anniversary Demo Update 2025 changelog:
 - 3 new levels!
 - Level editor
-- Online VS (beta)
-- Local multiplayer
-- Level select
-- Music timing patched
-- New animations and transition
+- All new remastered menu!
+- Great new game art!
+- All new level select
+- Local multiplayer!
+- Music timing patched and complete engine rewrite
+- New transition animations
+- New menu sound effects!
 - New music system using Tune Shark v3
 - New game over animation
 - New menu animations
