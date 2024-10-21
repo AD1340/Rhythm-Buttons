@@ -13,4 +13,4 @@ yophlox - Console porter
 Hydration: Beat timing system
 
 ## More artist credits
-BMus - Shaders song (level), Just me song (game over), Square adventures (online lobby song)
+BMus - Shaders song (level), Just me song (game over), Square adventures (online lobby song), Reasons (rare game over song)
