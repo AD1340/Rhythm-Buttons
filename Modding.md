@@ -19,3 +19,10 @@ Every time the state of the game switches, it uses state and substate variables.
 ![block_7_26_2024-2_22_55 PM](https://github.com/user-attachments/assets/62e9ee13-fe1d-456a-b3fb-870ce75f407f)
 
 To change the state of the game, simply change the state variable, and you can also do the same with substates. The needed messages are automatically broadcasted.
+
+# New levels
+Once you've exported your level from the level editor, drag your level file onto the levels folder. Once you've done that, use software like 7-Zip to extract the level archive into the levels folder.
+After that, finally add your level to the array in the level list file.
+
+![ss1](https://github.com/user-attachments/assets/42cb57fa-af99-4b2d-a0f4-4945d25b1f7f)
+![ss2](https://github.com/user-attachments/assets/70d43ec4-6704-4f3e-9d65-998251e812bb)
