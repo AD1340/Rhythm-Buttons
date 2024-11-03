@@ -8,6 +8,8 @@ For information on modding the game, check out [Modding.md](https://github.com/A
 # Credits
 AD1340 - The game's art, code, and music
 
+McChops - More game art
+
 yophlox - Console porter
 
 Hydration: Beat timing system
