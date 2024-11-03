@@ -1,7 +1,7 @@
 # Changing the server repo
 For a custom version of the game, to change the server repo the game gets these assets from, find the blue flag script in the stage sprite and change the set server repo block to the URL of your fork.
 
-![block_11_3_2024-3_19_25 AM](https://github.com/user-attachments/assets/d1f45e88-3f53-4caa-a567-d9583fe97702)
+![block_11_3_2024-3_22_23 AM](https://github.com/user-attachments/assets/92fa728e-3052-463b-8fd6-19931cdd977b)
 
 # Adding new text, menu buttons and on screen art
 Each of these sprites have a custom block to help you do this!
